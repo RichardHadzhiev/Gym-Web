@@ -10,7 +10,7 @@ export default {
     extend: {
       colors: {
         "gray-20": "#F8F4EB",
-        "gray-50": "EFE6E6",
+        "gray-50": "#EFE6E6",
         "gray-100": "#DFCCCC",
         "gray-500": "#5E0000",
         "primary-100": "#FFE1E0",
@@ -29,8 +29,8 @@ export default {
       },
       content: {
         evolvetext: "url('@/assets/EvolveText.png')",
-        abstractwaves: "url('@/assets/AbstractWaves.pgn')",
-        sparkles: "url('@/assets/Sparkles.pgn')",
+        abstractwaves: "url('@/assets/Waves.png')",
+        sparkles: "url('@/assets/Sparkles.png')",
         circles: "url('@/assets/Circles.pgn')",
       }
     },
