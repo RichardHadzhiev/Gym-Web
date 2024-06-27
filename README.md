@@ -1,6 +1,7 @@
 # Gym Web
 
 Welcome to Gym Web! This is a web application designed to help you track your fitness journey and achieve your fitness goals. 
+DEMO: https://egymproject.netlify.app/
 
 
 
